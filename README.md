@@ -1,5 +1,5 @@
 # skinny_sbox
-The SBox of the LWC candidate Skinny. Coded in SpinalHDL
+The SBox of the LWC candidate Skinny. Coded in SpinalHDL:
 
 ### Build
 ```
